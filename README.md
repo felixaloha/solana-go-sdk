@@ -1,6 +1,6 @@
 # solana-go-sdk
-[![Go](https://github.com/portto/solana-go-sdk/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/portto/solana-go-sdk/actions/workflows/go.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/portto/solana-go-sdk)](https://goreportcard.com/report/github.com/portto/solana-go-sdk)
+[![Go](https://github.com/felixaloha/solana-go-sdk/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/felixaloha/solana-go-sdk/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/felixaloha/solana-go-sdk)](https://goreportcard.com/report/github.com/felixaloha/solana-go-sdk)
 
 Solana Golang SDK
 
@@ -11,7 +11,7 @@ More example: [Gitbook](https://app.gitbook.com/@yihau/s/solana-development-with
 ### Installing
 
 ```sh
-go get -v github.com/portto/solana-go-sdk
+go get -v github.com/felixaloha/solana-go-sdk
 ```
 
 ### Example
@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/portto/solana-go-sdk/client"
+	"github.com/felixaloha/solana-go-sdk/client"
 )
 
 func main() {
@@ -139,10 +139,10 @@ import (
 	"crypto/ed25519"
 	"log"
 
-	"github.com/portto/solana-go-sdk/client"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/sysprog"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/felixaloha/solana-go-sdk/client"
+	"github.com/felixaloha/solana-go-sdk/common"
+	"github.com/felixaloha/solana-go-sdk/sysprog"
+	"github.com/felixaloha/solana-go-sdk/types"
 )
 
 func main() {
