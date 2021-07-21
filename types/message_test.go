@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/portto/solana-go-sdk/common"
+	"github.com/felixaloha/solana-go-sdk/common"
 )
 
 func TestMessage_Serialize(t *testing.T) {

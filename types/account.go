@@ -3,7 +3,7 @@ package types
 import (
 	"crypto/ed25519"
 
-	"github.com/portto/solana-go-sdk/common"
+	"github.com/felixaloha/solana-go-sdk/common"
 )
 
 type Account struct {

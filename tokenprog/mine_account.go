@@ -1,6 +1,6 @@
 package tokenprog
 
-import "github.com/portto/solana-go-sdk/common"
+import "github.com/felixaloha/solana-go-sdk/common"
 
 const MintAccountSize = 82
 

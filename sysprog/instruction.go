@@ -1,8 +1,8 @@
 package sysprog
 
 import (
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/felixaloha/solana-go-sdk/common"
+	"github.com/felixaloha/solana-go-sdk/types"
 )
 
 type Instruction uint32
